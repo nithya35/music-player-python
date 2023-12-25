@@ -1,0 +1,19 @@
+THIS PROJECT CAN RUN ONLY ON LINUX SYSTEMS 
+To run this project locally on the your computers make sure you are connected to the internet and you have downloaded both the python files init.py and app.py
+Create a new directory and copy these two python files and paste them in the new directory.
+Now make sure you have python on your systems, so open your terminal and type python3 --version and if no error pops up then you have python installed on your systems.
+Now first run init.py to install required modules , to run it type python3 init.py and hit enter. In this the terminal will ask you for your password to install ffmpeg , a necessary package and then press y after entering your password.
+After init.py successfully runs then type python3 app.py and then work accordingly.
+
+THIS PROJECT HAS BEEN USING SEVERAL MODULES WHOSE COPYRIGHT BELONGS TO THE RESPECTIVE OWNERS AND COMMUNITIES
+
+All the content used in this code is for educational purpose only
+I dont intend to violate any copyrights
+all the rights are ownwed by the respective authors
+
+
+Copyright Disclaimer under section 107 of the Copyright Act 1976, 
+allowance is made for “fair use” for purposes such as criticism, comment, 
+news reporting, teaching, scholarship, education and research.
+
+Fair use is a use permitted by copyright statute that might otherwise be infringing. 
